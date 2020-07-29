@@ -7,6 +7,9 @@
 - adding Default Controller
 - setup & adding view
 
+- composer setup package
+- install documentor/documentor
+
 #to-do
 - setup model
 - database wrapping
