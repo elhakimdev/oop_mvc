@@ -1,8 +1,30 @@
 <?php
+/**
+ * This class is parent of this app
+ * App will be call index.php on root directory
+ * then, require init.php
+ * init.php containts any dependency file to autoload while this app accesed by user
+ * 
+ * @author Elhakim
+ * @version 1.0
+ */
 class App
 {
+    /**
+     * a default property of controller instance
+     * set to default base controller
+     * you can change value of property by any your need default values
+     */
     protected $controller = "Home";
+    /**
+     * a default property of methode instance
+     * set to default base methode
+     * you can change value of property by any your need default values
+     */
     protected $method = "index";
+    /**
+     * param set to default = null 
+     */
     protected $params = [];
 
     public function __Construct()
