@@ -1,6 +1,6 @@
-# OOP MVC -- NATIVE PHP Framework
+# NATIVE PHP Framework
 
-## What is This?
+## WHAT IS THIS?
 
 This is a PHP full-stack web framework Project that inspired by CodeIgniter 4 Framework, see [official site](http://codeigniter.com).
 
@@ -10,21 +10,7 @@ This repository holds the distributable version of the project,
 ## VERSION
 - beta test v1.0 --prebuild
 
-## ChangeLog
-- setup preparation
-- setup route, bootstrapping 
-- setup base controller config
-- adding Default Controller
-- setup & adding view
-
-- composer setup package
-- install documentor/documentor
-
-## to-do act
-- setup model
-- database wrapping
-
-## Server Requirements
+## SERVER REQUIREMENTS
 
 PHP version 7.2 or higher is required, with the following extensions installed: 
 
@@ -38,13 +24,23 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-## Important Change with index.php
+## CHANGE-LOG
+- setup preparation
+- setup route, bootstrapping 
+- setup base controller config
+- adding Default Controller
+- setup & adding view
 
-## Repository Management
+- composer setup package
+- install documentor/documentor
 
-## Contributing
+## TODO-LIST
+- setup model
+- database wrapping
 
-## Great Thanks
+## CONTRIBUTING
+
+## GREAT THANKS
 - thanks for codeigniter developer, see [official site](http://codeigniter.com).
 
 
