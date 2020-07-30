@@ -45,6 +45,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - pre-doc
 
 ## CONTRIBUTING
+- we are open for contribute this project, great thanks
 
 ## GREAT THANKS
 - thanks for codeigniter developer, see [official site](http://codeigniter.com).
