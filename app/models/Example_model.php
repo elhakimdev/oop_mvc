@@ -26,7 +26,7 @@ class Example_model
      * @return void
      */
     public function getAllUser(){
-       $this->database->query(' SELECT * FORM ' . $this->table);
+       $this->database->query('SELECT * FROM ' . $this->table);
        return $this->database->resultSet();
     }
 }

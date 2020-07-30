@@ -30,7 +30,7 @@ class Database
         ];
         try {
             //code...
-            $this->db_handler = new PDO($ds_n,$this->user,$this->pass);
+            $this->db_handler = new PDO($ds_n,$this->user,$this->pass,$option);
         } catch (PDOException $e) {
             //throw $th;
             die($e-getMessage());
