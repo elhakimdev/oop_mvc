@@ -25,18 +25,24 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 
 ## CHANGE-LOG
+
+  >29-07-2020 23:00 WIB
 - setup preparation
 - setup route, bootstrapping 
 - setup base controller config
 - adding Default Controller
 - setup & adding view
 
+  >30-07-2020 00:30 WIB
 - composer setup package
 - install documentor/documentor
 
-## TODO-LIST
+  >30-07-2020 15:25 WIB
 - setup model
 - database wrapping
+
+## TODO-LIST
+- pre-doc
 
 ## CONTRIBUTING
 

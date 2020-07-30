@@ -5,7 +5,7 @@
 class Example_model
 {
     /**
-     * Undocumented variable
+     * $table variable as a database table, you can change for any table in any model 
      *
      * @var string 'tabel name'
      */
