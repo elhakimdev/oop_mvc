@@ -1,13 +1,13 @@
 <?php
-class Home extends Controller
+class Example extends Controller
 {
     public function index()
     {
 
         $data['tittle'] = 'OOP | MVC';
-        $data['name'] = $this->model('User_model')->getUser(); // prototype model call
+        $data['Example'] = $this->model('Example_model')->getAllUser(); // prototype model call
         $this->view('layout/header', $data);
-        $this->view('home/index',$data);
+        $this->view('Example/index',$data);
         $this->view('layout/footer');
     }
 }
