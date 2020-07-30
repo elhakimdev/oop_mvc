@@ -1,8 +1,8 @@
-# NATIVE PHP Framework
+# LEARN OOP MVC IN PHP
 
 ## WHAT IS THIS?
 
-This is a PHP full-stack web framework Project that inspired by CodeIgniter 4 Framework, see [official site](http://codeigniter.com).
+This is a PHP OOP MVC framework Project that inspired by CodeIgniter 4 Framework, see [official site](http://codeigniter.com).
 
 This repository holds the distributable version of the project,
 [development repository](https://github.com/elhakimdev/oop_mvc).
